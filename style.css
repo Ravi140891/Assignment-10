@@ -53,7 +53,8 @@ section{
 }
 .photo{
     max-width: 100%;
-    padding: 1rem 23rem;
+    max-height: 400px;
+    padding: 1rem 20rem;
     margin: auto;
 }
 .frame{
