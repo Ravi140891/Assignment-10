@@ -53,18 +53,19 @@ section{
 }
 .photo{
     max-width: 100%;
-    padding: 1rem 0;
-    margin: auto;
+    /* padding: 1rem 20rem; */
+    margin: auto;display: flex;
+ /* justify-items: baseline; */
+ /* align-items: center; */
+ justify-content: center;
+ /* align-content: center; */
 }
 .frame{
- display: flex;
- /* justify-items: baseline; */
- align-items: center;
- justify-content: center;
+ 
 }
 .pic{
-    max-width: 50%;
-    padding: 1rem 2rem;
+    min-width: 40%;
+    padding: 1rem 1rem;
 }
 .pic img{
     width: 270px;
